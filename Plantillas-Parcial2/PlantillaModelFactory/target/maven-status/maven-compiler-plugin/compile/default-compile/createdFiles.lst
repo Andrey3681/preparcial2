@@ -1,0 +1,14 @@
+com\example\plantillamodelfactory\controller\ModelFactoryController$SingletonHolder.class
+com\example\plantillamodelfactory\controller\services\IModelFactory.class
+com\example\plantillamodelfactory\mapping\mappers\mapper.class
+com\example\plantillamodelfactory\controller\ModelFactoryController.class
+com\example\plantillamodelfactory\mapping\mappers\mapperImpl.class
+com\example\plantillamodelfactory\exceptions\Exception.class
+com\example\plantillamodelfactory\viewController\Prueba.class
+com\example\plantillamodelfactory\model\ClasePrincipal.class
+com\example\plantillamodelfactory\mapping\dto\Dto.class
+com\example\plantillamodelfactory\utils\ArchivoUtil.class
+com\example\plantillamodelfactory\utils\Persistencia.class
+module-info.class
+com\example\plantillamodelfactory\HelloApplication.class
+com\example\plantillamodelfactory\viewController\viewController.class
