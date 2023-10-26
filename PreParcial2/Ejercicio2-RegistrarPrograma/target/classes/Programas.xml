@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="17.0.8" class="java.beans.XMLDecoder">
+ <object class="com.example.ejercicio2registrarprograma.Programa">
+  <void property="codigo">
+   <string>luis</string>
+  </void>
+  <void property="modalidad">
+   <string>DISTANCIA</string>
+  </void>
+  <void property="nombre">
+   <string>juan</string>
+  </void>
+ </object>
+</java>

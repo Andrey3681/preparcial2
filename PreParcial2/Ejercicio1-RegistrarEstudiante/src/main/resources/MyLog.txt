@@ -1,0 +1,2 @@
+oct. 25, 2023 2:40:46 P. M. com.example.ejercicio1registrarestudiante.ArchivoUtil guardarRegistroLog
+INFO: registrar,se registro un estudiante,2023-10-25
